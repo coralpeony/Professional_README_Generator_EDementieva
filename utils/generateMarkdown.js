@@ -25,6 +25,16 @@ function link(value) {
   }
 }
 
+function section(value) {
+  if (value === "No license") {
+    return "";
+  } else {
+return `## License
+This project is licensed under the ${value}
+  * For more information, please refer to [https://choosealicense.com/](https://choosealicense.com/).`
+  }
+}
+
 // function to generate markdown for README
 function generateMarkdown(data) {
   //console.log(data);
