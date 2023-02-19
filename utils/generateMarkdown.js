@@ -17,7 +17,13 @@ function badge(value) {
   }
 }
 
-
+function link(value) {
+  if (value === "No license") {
+    return "";
+  } else {
+    return `3. [License](#license)`;
+  }
+}
 
 // function to generate markdown for README
 function generateMarkdown(data) {
