@@ -1,5 +1,7 @@
 # Professional_README_Generator_EDementieva
 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 The task in this Challenge is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. This will allow the project creator to devote more time to working on the project. The application is invoked by using the following command: node index.js
@@ -7,7 +9,7 @@ The task in this Challenge is to create a command-line application that dynamica
 
 ## Installation
 
-Use git clone to clone this project onto your local machine.
+Use git clone to clone this project onto your local machine. To install necessary dependencies, run the following command: npm install
 
 ## Usage of the application:
 

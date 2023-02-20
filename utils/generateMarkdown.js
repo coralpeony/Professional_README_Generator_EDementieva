@@ -64,7 +64,7 @@ To install necessary dependencies, run the following command: ${data.installatio
 
 
 ## Usage
-You can use this applicaiton by running ${data.usage}
+You can use this application by running ${data.usage}
 
   
   ${section(data.license)}
@@ -84,8 +84,8 @@ To run tests, run the following command: ${data.tests}
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at ${
     data.email
-  }. You can find more of my work at ${data.gitHub}.
-* GitHub Username: ${data.gitHub}
+  }. You can find more of my work at https://github.com/${data.gitHub}/.
+* GitHub Username: https://github.com/${data.gitHub}/
 * GitHub Email: ${data.email}
 `;
 }
