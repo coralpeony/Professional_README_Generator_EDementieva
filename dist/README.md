@@ -1,10 +1,10 @@
 
-# test
+# Professional README Generator
   
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  test
+  This project is built in node.js using the inquirer package.
   
 
 
@@ -19,31 +19,31 @@
 
 
 ## Installation:
-To install necessary dependencies, run the following command: test
+To install necessary dependencies, run the following command: npm install
 
 
 
 ## Usage
-You can use this application by running test
+You can use this application by running node index.js
 
   
   ## License
-This project is licensed under the Apache License 2.0
+This project is licensed under the MIT License
   * For more information, please refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 
 
 ## Contributing
-  test
+  Fork and pull request
 
 
 
 ## Tests
-To run tests, run the following command: test
+To run tests, run the following command: npm test
 
 
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at test. You can find more of my work at https://github.com/coralpeony/.
+If you have any questions about the repo, open an issue or contact me directly at test@gmail.com. You can find more of my work at https://github.com/coralpeony/.
 * GitHub Username: https://github.com/coralpeony/
-* GitHub Email: test
+* Email: test@gmail.com

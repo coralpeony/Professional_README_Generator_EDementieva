@@ -48,9 +48,9 @@ When a user enters their email address, it's added to the section of the README 
 When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.
 
 
-![Professional_README_Generator](./assets/images/screenshot.png)
+![Professional_README_Generator](./images/screenshot.png)
 
-
+https://drive.google.com/file/d/1RraoK2NlJP9l9kIUs03_CHa29_obwiMy/view?usp=share_link
 
 ## Credits
 

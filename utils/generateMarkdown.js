@@ -86,7 +86,7 @@ If you have any questions about the repo, open an issue or contact me directly a
     data.email
   }. You can find more of my work at https://github.com/${data.gitHub}/.
 * GitHub Username: https://github.com/${data.gitHub}/
-* GitHub Email: ${data.email}
+* Email: ${data.email}
 `;
 }
 
